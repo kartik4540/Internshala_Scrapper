@@ -20,7 +20,7 @@ Installation
 
 Clone the Repository
 
-git clone <repository_url>
+git clone <https://github.com/kartik4540/Internshala_Scrapper.git)>
 cd internship-scraper
 
 Install Required Python Libraries
